@@ -2377,14 +2377,14 @@
 34,Female,Bachelor's Degree,Full Stack Engineer,8,122485
 25,Male,PhD,Software Engineer Manager,12,169159
 43,Male,Master's Degree,Senior Software Engineer,21,187081
-53,Other,High School,Senior Project Engineer,31,166109
+53,Male,High School,Senior Project Engineer,31,166109
 27,Female,Master's Degree,Front end Developer,5,78354
 25,Male,Bachelor's Degree,Back end Developer,2,90249
 29,Female,Master's Degree,Senior Software Engineer,6,132720
 52,Male,PhD,Software Engineer Manager,23,161568
 41,Male,Master's Degree,Front end Developer,13,127346
 49,Female,Bachelor's Degree,Back end Developer,19,120177
-25,Other,High School,Full Stack Engineer,2,69032
+25,Male,High School,Full Stack Engineer,2,69032
 35,Male,Master's Degree,Senior Project Engineer,8,101332
 57,Female,PhD,Full Stack Engineer,30,121450
 35,Female,Bachelor's Degree,Senior Project Engineer,12,166375
@@ -2405,7 +2405,7 @@
 28,Male,High School,Back end Developer,7,95845
 34,Male,Master's Degree,Full Stack Engineer,12,160976
 33,Female,Master's Degree,Senior Project Engineer,9,126753
-37,Other,Master's Degree,Full Stack Engineer,14,161393
+37,Male,Master's Degree,Full Stack Engineer,14,161393
 33,Male,Master's Degree,Senior Software Engineer,8,139817
 53,Male,PhD,Software Engineer Manager,25,181714
 35,Female,Bachelor's Degree,Back end Developer,10,114776
@@ -2447,24 +2447,24 @@
 48,Male,PhD,Full Stack Engineer,23,181021
 39,Female,Master's Degree,Senior Software Engineer,15,134641
 48,Male,Bachelor's Degree,Front end Developer,23,173851
-31,Other,High School,Back end Developer,8,104127
+31,Male,High School,Back end Developer,8,104127
 47,Male,Master's Degree,Senior Project Engineer,25,178859
 29,Female,PhD,Full Stack Engineer,5,98568
 32,Male,Bachelor's Degree,Software Engineer Manager,9,104661
 38,Female,Master's Degree,Senior Software Engineer,13,134858
 34,Male,Bachelor's Degree,Back end Developer,10,94502
-23,Other,High School,Front end Developer,2,62852
+23,Male,High School,Front end Developer,2,62852
 34,Female,Bachelor's Degree,Full Stack Engineer,8,122485
 25,Male,PhD,Software Engineer Manager,12,169159
 43,Male,Master's Degree,Senior Software Engineer,21,187081
-53,Other,High School,Senior Project Engineer,31,166109
+53,Male,High School,Senior Project Engineer,31,166109
 27,Female,Master's Degree,Front end Developer,5,78354
 25,Male,Bachelor's Degree,Back end Developer,2,90249
 29,Female,Master's Degree,Senior Software Engineer,6,132720
 52,Male,PhD,Software Engineer Manager,23,161568
 41,Male,Master's Degree,Front end Developer,13,127346
 49,Female,Bachelor's Degree,Back end Developer,19,120177
-25,Other,High School,Full Stack Engineer,2,69032
+25,Male,High School,Full Stack Engineer,2,69032
 35,Male,Master's Degree,Senior Project Engineer,8,101332
 57,Female,PhD,Full Stack Engineer,30,121450
 35,Female,Bachelor's Degree,Senior Project Engineer,12,166375
@@ -2485,7 +2485,7 @@
 28,Male,High School,Back end Developer,7,95845
 34,Male,Master's Degree,Full Stack Engineer,12,160976
 33,Female,Master's Degree,Senior Project Engineer,9,126753
-37,Other,Master's Degree,Full Stack Engineer,14,161393
+37,Male,Master's Degree,Full Stack Engineer,14,161393
 33,Male,Master's Degree,Senior Software Engineer,8,139817
 53,Male,PhD,Software Engineer Manager,25,181714
 35,Female,Bachelor's Degree,Back end Developer,10,114776
@@ -2527,13 +2527,13 @@
 48,Male,PhD,Full Stack Engineer,23,181021
 39,Female,Master's Degree,Senior Software Engineer,15,134641
 48,Male,Bachelor's Degree,Front end Developer,23,173851
-31,Other,High School,Back end Developer,8,104127
+31,Male,High School,Back end Developer,8,104127
 47,Male,Master's Degree,Senior Project Engineer,25,178859
 29,Female,PhD,Full Stack Engineer,5,98568
 32,Male,Bachelor's Degree,Software Engineer Manager,9,104661
 38,Female,Master's Degree,Senior Software Engineer,13,134858
 34,Male,Bachelor's Degree,Back end Developer,10,94502
-23,Other,High School,Front end Developer,2,62852
+23,Male,High School,Front end Developer,2,62852
 36,Male,Bachelor's Degree,Front end Developer,14,139095
 30,Female,Master's Degree,Senior Project Engineer,5,106278
 28,Male,Master's Degree,Full Stack Engineer,4,90452
@@ -2553,7 +2553,7 @@
 49,Male,Master's Degree,Software Engineer Manager,22,182237
 35,Female,Master's Degree,Full Stack Engineer,10,151901
 31,Male,Bachelor's Degree,Back end Developer,8,100052
-54,Other,High School,Senior Software Engineer,29,158254
+54,Male,High School,Senior Software Engineer,29,158254
 43,Male,Master's Degree,Full Stack Engineer,20,167207
 33,Female,Master's Degree,Senior Project Engineer,10,112439
 52,Female,PhD,Software Engineer Manager,29,194214
@@ -2799,7 +2799,7 @@
 49,Male,Master's Degree,Software Engineer Manager,23,182392
 35,Female,Master's Degree,Full Stack Engineer,11,151078
 31,Male,Bachelor's Degree,Back end Developer,8,100679
-54,Other,High School,Senior Software Engineer,29,158966
+54,Male,High School,Senior Software Engineer,29,158966
 43,Male,Master's Degree,Full Stack Engineer,20,167924
 33,Female,Master's Degree,Senior Project Engineer,10,113334
 52,Female,PhD,Software Engineer Manager,29,194778
@@ -2918,7 +2918,7 @@
 49,Male,Master's Degree,Software Engineer Manager,23,182392
 35,Female,Master's Degree,Full Stack Engineer,11,151078
 31,Male,Bachelor's Degree,Back end Developer,8,100679
-54,Other,High School,Senior Software Engineer,29,158966
+54,Male,High School,Senior Software Engineer,29,158966
 43,Male,Master's Degree,Full Stack Engineer,20,167924
 33,Female,Master's Degree,Senior Project Engineer,10,113334
 52,Female,PhD,Software Engineer Manager,29,194778
@@ -3037,7 +3037,7 @@
 49,Male,Master's Degree,Software Engineer Manager,23,182392
 35,Female,Master's Degree,Full Stack Engineer,11,151078
 31,Male,Bachelor's Degree,Back end Developer,8,100679
-54,Other,High School,Senior Software Engineer,29,158966
+54,Male,High School,Senior Software Engineer,29,158966
 43,Male,Master's Degree,Full Stack Engineer,20,167924
 33,Female,Master's Degree,Senior Project Engineer,10,113334
 52,Female,PhD,Software Engineer Manager,29,194778
